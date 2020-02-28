@@ -10,6 +10,7 @@ resources:
       type: github
       name: Azure/azure-sdk-tools
       endpoint: azure
+      ref: refs/heads/feature/replace-relative-links-diff
 
 trigger:
   branches:
